@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+    
+    <!-- Main Screen -->
+    <string name="btn_scan_import">Scan to Import</string>
+    <string name="btn_scan_export">Scan to Export</string>
+    
+    <!-- Barcode Scanner -->
+    <string name="camera_permission_required">Camera permission is required for barcode scanning</string>
+    <string name="scanning_barcode">Scanning Barcode</string>
+    <string name="point_at_barcode">Point camera at a barcode</string>
+    
+    <!-- Import Screen -->
+    <string name="import_title">Product Import</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_sku">SKU</string>
+    <string name="date_received">Date Received</string>
+    <string name="cost">Cost</string>
+    <string name="customer_price">Customer Price</string>
+    <string name="vendor">Vendor</string>
+    <string name="save_product">Save Product</string>
+    
+    <!-- Export Screen -->
+    <string name="export_title">Product Export</string>
+    <string name="scanned_items">Scanned Items</string>
+    <string name="submit_shipment">Submit Shipment</string>
+    <string name="add_more_items">Add More Items</string>
+    
+    <!-- Common -->
+    <string name="error_network">Network error. Please try again.</string>
+    <string name="success">Success</string>
+    <string name="cancel">Cancel</string>
+</resources> 
